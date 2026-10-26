@@ -27,7 +27,7 @@
 | Q2 SKU consolidation | Esther | Ayman |
 | Q3 weather correlation | Ayman | Esther |
 | Q4 stores and geography | Ayman | Esther |
-| Q5 signal or artifact | Esther | Ayman |
+| Q5 signal or artifact | Esther & Ayman | each reviews the other's part |
 
 ## How we work
 - **repo url:** https://github.com/aymanr8-dot/DS-2002-Midterm-Project-Data-Demons-
